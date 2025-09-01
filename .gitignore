@@ -1,0 +1,25 @@
+# Android SDK and Emulator
+.androidsdkroot/
+.emu/
+
+# IDE and System files
+.codeoss-cloudworkstations/
+.idx/
+.monospace-ai-index/
+.cache/
+
+# Node.js
+studio/node_modules/
+studio/.next/
+studio/package-lock.json
+
+# Environment files
+studio/.env
+studio/.env.local
+
+# Logs
+*.log
+studio/firebase-debug.log
+
+# Build files
+studio/.cache/
