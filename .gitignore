@@ -25,3 +25,12 @@ studio/firebase-debug.log
 studio/.cache/
 .config/
 .bash_history
+
+# Shell history and user files
+.bash_history
+.bash_logout
+.bashrc
+.profile
+
+# User-specific files
+.gitconfig
