@@ -23,3 +23,4 @@ studio/firebase-debug.log
 
 # Build files
 studio/.cache/
+.config/
