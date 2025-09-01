@@ -212,3 +212,8 @@ studio/.cache/
 EOF
 
 clear
+git add .
+git commit -m "Initial commit with all project files"
+du -sh .git/
+clear
+git status
