@@ -86,6 +86,7 @@ src/
 ├── styles/                   # CSS styles
 └── types/                    # TypeScript definitions
 
+```
 ### 🚀 Deployment
 
 The project is deployed using **Vercel** for fast, reliable, and scalable hosting.  
