@@ -109,6 +109,7 @@ vercel
 
 # Deploy directly to production
 vercel --prod
+```
 
 ## 🌍 Impact & Use Cases
 
