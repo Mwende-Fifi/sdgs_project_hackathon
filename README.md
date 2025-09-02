@@ -10,7 +10,6 @@
 - [🏗️ Technical Architecture, Project Structure & Deployment](#️-technical-architecture-project-structure--deployment)
 - [🌍 Impact & Use Cases](#-impact--use-cases)
 - [🔮 Future Enhancements](#-future-enhancements)
-- [👥 Team](#-team)
 
 ---
 
@@ -110,3 +109,18 @@ vercel
 
 # Deploy directly to production
 vercel --prod
+
+## 🌍 Impact & Use Cases
+
+### 👥 Primary Users
+- **Patients** → Get guidance on which facility to visit for their condition  
+- **Caregivers** → Quickly find appropriate care for family members  
+- **Health Workers** → Receive fast facility type recommendations  
+- **Visitors** → Easily navigate Kenya’s healthcare system  
+
+### 📌 Real-world Scenarios
+- "I have chest pain, where should I go?" → **Hospital** recommendation  
+- "Need family planning services" → **Clinic** guidance  
+- "Feeling depressed and need help" → **Mental health facility**  
+- "Where can I get malaria medication?" → **Pharmacy** location  
+
